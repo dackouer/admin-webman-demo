@@ -22,13 +22,13 @@ return [
             'driver'      => 'mysql',
             'host'        => '127.0.0.1',
             'port'        => 3306,
-            'database'    => 'yitea',
-	    'username'    => 'yitea',
-            'password'    => '2cdT4KWaZkdc3bsS',         // p3WStX5mb4jc7SRx
+            'database'    => 'root',
+	        'username'    => 'root',
+            'password'    => 'root',         // p3WStX5mb4jc7SRx
             'unix_socket' => '',
             'charset'     => 'utf8',
             'collation'   => 'utf8_unicode_ci',
-            'prefix'      => 'luck_',
+            'prefix'      => 'test_',
             'strict'      => true,
             'engine'      => null,
         ],
